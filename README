@@ -1,0 +1,6 @@
+#Issuu Downloader
+
+> http://issuu.com
+
+**Usage:** python issuu.py url
+**Example:** python issuu.py http://issuu.com/marcosnogueira0/docs/the_legend_of_zelda_oracle_of_seaso
