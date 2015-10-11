@@ -1,4 +1,5 @@
 Issuu Downloader
 ==============
 
-#Usage: python issuu.py url
+#Usage:
+python issuu.py url
