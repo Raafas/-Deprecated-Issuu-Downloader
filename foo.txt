@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en" class="intro " prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8" >
+
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//image.issuu.com">
+<link rel="dns-prefetch" href="//content.issuu.com">
+<link rel="dns-prefetch" href="//static.issuu.com">
+<link rel="dns-prefetch" href="//api.issuu.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//photo.issuu.com">
+<link rel="dns-prefetch" href="//page.issuu.com">
+<link rel="dns-prefetch" href="//document.issuu.com">
+<link rel="dns-prefetch" href="//skin.issuu.com">
+<link rel="dns-prefetch" href="//static.isu.pub">
+<link rel="dns-prefetch" href="//photo.isu.pub">
+<link rel="dns-prefetch" href="//page.isu.pub">
+<link rel="dns-prefetch" href="//image.isu.pub">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-60x60@2x.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-76x76@2x.png">
+
+
+    <meta name="apple-itunes-app" content="app-id=914453825, app-argument=http://issuu.com/marcosnogueira0/docs/the_legend_of_zelda_oracle_of_seaso">
+
+
+
+<title>ISSUU - [Mangá] The legend of zelda oracle of seasons by Cecil comic&#39;s</title>
+<meta name="description" content="Issuu is a digital publishing platform that makes it simple to publish magazines, catalogs, newspapers, books, and more online. Easily share your publications and get them in front of Issuu’s millions of monthly readers.">
+<meta name="keywords" content="online magazines, digital magazines, digital magazine software, interactive magazines, digital magazine platform, create digital magazine, create digital publication, digital publication, publish digital magazine, interactive digital magazines, self-publish digital magazine, online magazine reader, free online magazine software, interactive magazine software" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+
+
+
+<meta property="og:url" content="http://issuu.com/marcosnogueira0/docs/the_legend_of_zelda_oracle_of_seaso">
+<meta property="og:title" content="[Mangá] The legend of zelda oracle of seasons">
+<meta property="og:description" content="Cecil comic&#39;s">
+<meta property="og:image" content="http://image.issuu.com/140126053642-7e28d833226e15e374763962772acfc7/jpg/page_1.jpg">
+<link rel="image_src" href="http://image.issuu.com/140126053642-7e28d833226e15e374763962772acfc7/jpg/page_1.jpg">
+<meta property="og:site_name" content="Issuu">
+<meta property="og:type" content="article">
+
+
+<meta property="og:video" content="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf?mode=mini&amp;documentId=140126053642-7e28d833226e15e374763962772acfc7">
+<meta property="og:video:secure_url" content="https://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf?mode=mini&amp;documentId=140126053642-7e28d833226e15e374763962772acfc7">
+<meta property="og:video:height" content="394">
+<meta property="og:video:width" content="470">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<meta name="medium" content="video">
+<meta name="video_height" content="394">
+<meta name="video_width" content="470">
+<meta name="video_type" content="application/x-shockwave-flash">
+
+<script type="text/javascript">
+    var ISSUU_BUILD_VERSION = 290;
+</script>
+
+<meta property="fb:app_id" content="123743911011091" >
+
+<meta name="application-name" content="Issuu">
+<meta name="msapplication-TileColor" content="#ef5326">
+<meta name="msapplication-navbutton-color" content="#ef5326" />
+<meta name="msapplication-starturl" content="/">
+<meta name="msapplication-task" content="name=Feed;action-uri=/home;icon-uri=./favicon.ico">
+<meta name="msapplication-task" content="name=Following;action-uri=/home/following;icon-uri=./favicon.ico">
+<meta name="msapplication-task" content="name=Stacks;action-uri=/home/stacks;icon-uri=./favicon.ico">
+<meta name="msapplication-task" content="name=My Publications;action-uri=/home/publications;icon-uri=./favicon.ico">
+        
+
+<meta name="msApplication-ID" content="Issuu.Issuu"/>
+<meta name="msApplication-PackageFamilyName" content="Issuu.Issuu_0qgsrm4pxqk58"/>
+
+
+<meta name="p:domain_verify" content="f9d18061b7bd0128496a649794e02250">
+
+
+    <meta name="twitter:card" content="summary_large_image">
+    
+        <meta name="twitter:image:src" content="http://image.issuu.com/140126053642-7e28d833226e15e374763962772acfc7/jpg/page_1.jpg">
+    
+
+<meta name="twitter:site" content="@issuu">
+<meta name="twitter:site:id" content="10156602">
+<meta name="twitter:app:name:googleplay" content="Issuu: A World Of Magazines">
+<meta name="twitter:app:id:googleplay" content="com.issuu.android.app">
+
+    <meta name="twitter:app:url:googleplay" content="http://issuu.com/marcosnogueira0/docs/the_legend_of_zelda_oracle_of_seaso/1">
+
+
+
+
+    
+    <link rel="stylesheet" href="//static.isu.pub/uic/401/dist/css/ui-components.min.css" type="text/css" >
+    <script src="//static.isu.pub/uic/401/dist/js/ui-components-top.min.js" ></script>
+
+
+<link rel="stylesheet" href="http://static.isu.pub/fe/issuu-documentpage/s3/290/styles/document.css" type="text/css" >
+
+
+<script type="text/javascript">
+    window.__issuuConfig = {"production":true,"recurly":{"publicKey":"sc-PLh0OQnzEiRgByAfb3kQgC"},"social":{"facebook":{"applicationId":"123743911011091"},"googleid":"841485895139-j4so04mdtig06vg2eqbm8u3mamm6d28a.apps.googleusercontent.com"},"legal":{"minimumTermsOfService":1,"currentTermsOfService":2,"gracePeriodHrs":168},"tracking":{"settings":"issuu","quantcastId":"p-5cvC4NOeGmtNA","gaId":"UA-128666-7","gaIdSignup":"UA-128666-27","gaIdFacebookApp":"UA-128666-30","gaIdTrickers":"UA-128666-29","mixpanel":"0cf3d1ea9fed57d54806204357b15a81"},"i18n":{"fallbackLng":"en","lng":"en","flashSupportDevLng":true,"config":{"list":[{"lng":"en","label":"English"},{"lng":"de","label":"Deutsch"},{"lng":"es","label":"Español"},{"lng":"pt-br","label":"Português (Brasil)"},{"lng":"fr","label":"Français"},{"lng":"it","label":"Italiano"},{"lng":"pt","label":"Português (Portugal)"}],"default":"en"}},"curated":{"path":"/curatedmobile/1/1/__lng__/explore.jsonp","img":"img/lres.jpg","imgLocalized":"img/__lng__/lres.jpg","configCacheTime":3600},"friendlyNotification":{"enabled":false},"adsPlacements":{"readerAds":"/30443627/Issuu_Production_Reader"},"recaptchaSitekey":"6LeZ5gMAAAAAAKuZgUFiH0MAxAypMr8R60tKaJm_","hosts":{"html":{"urlBase":"http://issuu.com","secureUrlBase":"https://issuu.com"},"static":{"urlBase":"http://static.isu.pub/fe/","secureUrlBase":"https://static.isu.pub/fe/"},"flashstatic":{"urlBase":"http://static.issuu.com/","secureUrlBase":"https://static.issuu.com/"},"api":{"urlBase":"http://api-node.issuu.com","secureUrlBase":"https://api-node.issuu.com"},"publish":{"urlBase":"http://publish.issuu.com","secureUrlBase":"https://publish.issuu.com"},"graph":{"urlBase":"http://graph.issuu.com","secureUrlBase":"https://graph.issuu.com"},"e":{"urlBase":"http://e.issuu.com","secureUrlBase":"https://e.issuu.com"},"embed":{"urlBase":"http://e.issuu.com/embed","secureUrlBase":"https://e.issuu.com/embed"},"skin":{"urlBase":"http://skin.issuu.com","secureUrlBase":"https://skin.issuu.com"},"widget":{"urlBase":"http://widget.issuu.com","secureUrlBase":"https://widget.issuu.com"},"content":{"urlBase":"http://content.issuu.com","secureUrlBase":"https://s3.amazonaws.com/content.issuu.com"},"config":{"urlBase":"http://config.issuu.com","secureUrlBase":"https://s3.amazonaws.com/config.issuu.com"},"document":{"urlBase":"http://s3.amazonaws.com/document.issuu.com","secureUrlBase":"https://s3.amazonaws.com/document.issuu.com"},"documentstat":{"urlBase":"http://documentstat.issuu.com","secureUrlBase":"https://documentstat.issuu.com"},"image":{"urlBase":"http://image.isu.pub","secureUrlBase":"https://image.isu.pub"},"protectedimage":{"urlBase":"http://protectedimage.issuu.com","secureUrlBase":"https://protectedimage.issuu.com"},"clipping":{"urlBase":"http://clipping.issuu.com","secureUrlBase":"https://clipping.issuu.com"},"page":{"urlBase":"http://page.isu.pub","secureUrlBase":"https://page.isu.pub"},"photo":{"urlBase":"http://photo.isu.pub","secureUrlBase":"https://photo.isu.pub"},"user":{"urlBase":"http://user.issuu.com","secureUrlBase":"https://user.issuu.com"},"infoboxesApi":{"urlBase":"http://issuu.com","secureUrlBase":"https://issuu.com"}}};
+</script>
+
+
+
+
+
+    <link rel="alternate" type="application/json+oembed" href="http://issuu.com/oembed?url=http%3A%2F%2Fissuu.com%2Fmarcosnogueira0%2Fdocs%2Fthe_legend_of_zelda_oracle_of_seaso&amp;format=json" title="[Mangá] The legend of zelda oracle of seasons">
+    <link rel="alternate" type="text/xml+oembed" href="http://issuu.com/oembed?url=http%3A%2F%2Fissuu.com%2Fmarcosnogueira0%2Fdocs%2Fthe_legend_of_zelda_oracle_of_seaso&amp;format=xml" title="[Mangá] The legend of zelda oracle of seasons">
+
+
+
+    <meta property="al:ios:app_name" content="Issuu">
+    <meta property="al:ios:app_store_id" content="914453825"/>
+    <meta property="al:ios:url" content="issuu://marcosnogueira0/docs/the_legend_of_zelda_oracle_of_seaso" />
+
+
+    </head>
+    <body class="bg-light">
+        
+
+
+<header class="header js-header theme-dark bg-dark">
+    <nav class="header__nav container" role="navigation">
+        <div class="header__logo">
+            <a class="header-logo issuu-logo" href="/" id="logo" title="Issuu Logo">
+    <i class="header-logo__mark issuu-logo__mark issuuicon issuuicon-logo-small"></i>
+    <i class="header-logo__type issuu-logo__type issuuicon issuuicon-logo"></i>
+</a>
+
+        </div>
+        
+        <form class="header__search search" action="/search" method="get" accept-charset="utf-8" role="search" ontouchstart="">
+            <div class="searchbox header-search">
+    <input id="input_keywords" class="header-search__control form-control typeahead" title="Search Issuu" value="" name="q" autocomplete="off">
+    <span class="header-search__placeholder searchbox-placeholder issuuicon issuuicon-search hidden"></span>
+    <span class="header-search__clear searchbox-clear issuuicon issuuicon-remove-sign"></span>
+</div>
+
+        </form>
+
+        <div class="userstatus header__menus">
+            <ul class="header-menu loggedout">
+    <li class="header-menu__item hidden-xs hidden-sm hidden-md">
+        <a class="header-menu__link publish-link" href="/publish">Upload</a>
+    </li>
+    <li class="header-menu__item hidden-xs hidden-sm">
+        <a class="header-menu__link" href="/about">About</a>
+    </li>
+    <li class="header-menu__item hidden-xs">
+        <a class="header-menu__link" href="/pricing">Plans &amp; Pricing</a>
+    </li>
+    <li class="header-menu__item hidden-lg hidden-md hidden-sm">
+        <a class="header-menu__link" href="/pricing">Plans</a>
+    </li>
+    <li class="header-menu__item has-submenu">
+        <a class="header-menu__link" href="#" data-toggle="languages">Languages</a>
+        <ul class="header-language language-selector menu arrow-top" data-list="languages" role="menu">
+    
+            <li class="header-language__item active">
+                <a class="header-language__link primary" href="" data-lang="en" >English</a>
+                <span class="header-language__icon issuuicon issuuicon-ok text-success"></span>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="de">Deutsch</a>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="es">Español</a>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="pt-br">Português (Brasil)</a>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="fr">Français</a>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="it">Italiano</a>
+            </li>
+        
+            <li class="header-language__item">
+                <a class="header-language__link primary" href="" data-lang="pt">Português (Portugal)</a>
+            </li>
+        
+</ul>
+
+    </li>
+
+    <li class="header-menu__item hidden-xs hidden-sm">
+        <a class="header-menu__link" href="/signup" id="signup-link">Create Account</a>
+    </li>
+    <li class="header-menu__item">
+        <a class="header-menu__link" href="/signin" id="login-link">Sign In</a>
+    </li>
+</ul>
+
+            <ul class="header-menu loggedin">
+    <li class="header-menu__item hidden-xs">
+        <a class="header-menu__link publish-link" href="/publish">Upload</a>
+    </li>
+    <li class="header-menu__item">
+        <a class="header-menu__link " href="/explore">Explore</a>
+    </li>
+    <li class="header-menu__item">
+        <a class="header-menu__link " href="/home">Feed</a>
+    </li>
+    <li class="header-menu__item hidden-xs hidden-sm hidden-md">
+        <a class="header-menu__link " href="/home/publications">Publisher Tools</a>
+    </li>
+    <li class="header-menu__item hidden-xs hidden-sm hidden-md">
+        <a class="header-menu__link stacks " href="/undefined/stacks">Stacks</a>
+    </li>
+    <li class="header-menu__item hidden-xs hidden-sm">
+        <a class="header-menu__link header-menu__badge subscriptions " href="/home/following">Following
+            <span class="badge unread"></span>
+        </a>
+    </li>
+
+    <li class="header-menu__item header-menu__item--has-dropdown has-submenu">
+        <a class="header-menu__profile-wrapper" href="/undefined" data-toggle="submenu">
+            <!-- NOTE: Be carefull, this one is weird, class in the end of tag (and also added in index.js!) -->
+            <img  alt="undefined"  />
+        </a>
+        <ul class="header-dropdown menu arrow-top" data-list="submenu" role="menu">
+    <li class="header-dropdown__item profile">
+        <a class="header-dropdown__link name primary" href="/undefined"></a>
+    </li>
+    <li class="header-dropdown__item hidden-lg">
+        <a class="header-dropdown__link primary" href="/undefined/stacks">Stacks</a>
+    </li>
+    <li class="header-dropdown__item hidden-lg hidden-md">
+        <a class="header-dropdown__link primary" href="/home/following">Following</a>
+    </li>
+    <li class="header-dropdown__item visible-md">
+        <a class="header-dropdown__link primary" href="/home/publications">Publisher Tools</a>
+    </li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link primary" href="/home/services">Services</a>
+    </li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link primary" href="/home/settings">Account Settings</a>
+    </li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link primary" href="/home/settings#language">Languages</a>
+    </li>
+    <li class="header-dropdown__item divider"></li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link primary" href="/home/statistics">Statistics</a>
+    </li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link primary" href="/home/campaigns">Campaigns</a>
+    </li>
+    <li class="header-dropdown__item">
+        <a class="header-dropdown__link" href="/pricing">Plans &amp; Pricing</a>
+    </li>
+    <li class="header-dropdown__item divider secondary"></li>
+    <li class="header-dropdown__item hidden-xs secondary">
+        <a class="header-dropdown__link" href="http://help.issuu.com">Help &amp; Support</a>
+    </li>
+    <li class="header-dropdown__item secondary">
+        <a class="header-dropdown__link" href="#logout" id="logout-link">Sign Out</a>
+    </li>
+</ul>
+
+    </li>
+</ul>
+
+            <ul class="header-menu collapse-search-input">
+    <li class="header-menu__item">
+        <a class="header-menu__link js-collapse-searchfield" href="javascript:void(0)">Close</a>
+    </li>
+</ul>
+
+        </div>
+    </nav>
+    
+    <a href="https://plus.google.com/115027052133270488314" rel="publisher" style="display: none;" >Issuu on Google+</a>
+</header>
+
+        
+
+<div id="main-container">
+    <div id="readerreader" class="bg-dark"></div>
+    <div id="loadingtitle" class="theme-dark">
+        <h2>[Mangá] The legend of zelda oracle of seasons</h2>
+    </div>
+    <div id="content" class="bg-light" itemscope itemtype="http://schema.org/CreativeWork">
+        <div id="docmenu-wrapper" class="bg-white">
+            <ul id="docmenu" class="nav nav-tabs"> <!--clearfix navigation intro"-->
+                
+                <li class="subscription has-menu">
+                    <div id="responsiveFollowButton">
+    <button class="btn follow-button" data-button="state-icon" data-toggle="tooltip">
+        <span class="issuuicon issuuicon-follow follow-button__icon"></span>
+        <span class="issuuicon issuuicon-unfollow follow-button__unfollow-icon hidden"></span>
+        <span class="follow-button__info">
+            <span class="follow-button__title h4">Cecil comic&#39;s</span>
+            <span class="follow-button__subtitle small">Follow publisher</span>
+            <span class="follow-button__subtitle--unfollow small hidden">Unfollow publisher</span>
+        </span>
+    </button>
+    <div class="menu default-padding arrow-bottom docmenu__tooltip" data-tooltip="tooltip">
+        <p>Be the first to know about new publications.</p>
+    </div>
+    <div class="follow-button-info">
+        <span class="follow-button__subtitle small">Follow publisher</span>
+        <span class="follow-button__subtitle--unfollow small hidden">Unfollow publisher</span>
+        <a href="/MarcosNogueira0" class="follow-button__title h4 unstyled type-discreet" tabindex="-1">Cecil comic&#39;s</a>
+    </div>
+</div>
+
+                </li>
+                
+                <li class="metadata active">
+                    <a href="javascript:void(0);">Info</a>
+                </li>
+                <li class="share has-menu">
+                    <a href="javascript:void(0);" data-toggle="tooltip">Share</a>
+                    <div class="menu default-padding arrow-bottom docmenu__tooltip" data-tooltip="tooltip">
+                        <p>Spread the word.<br />Share this publication.</p>
+                    </div>
+                </li>
+                <li class="addto has-menu">
+                    <a href="javascript:void(0);" data-toggle="tooltip">Stack</a>
+                    <div class="menu default-padding arrow-bottom docmenu__tooltip" data-tooltip="tooltip">
+                        <p>Organize your favorites into stacks.</p>
+                    </div>
+                </li>
+                
+                <li class="like has-menu">
+                    <a href="javascript:void(0);" data-toggle="tooltip"><span class='issuuicon issuuicon-heart'></span> Like</a>
+                    <div class="menu default-padding arrow-bottom docmenu__tooltip" data-tooltip="tooltip">
+                        <p>Like this publication.</p>
+                    </div>
+                </li>
+                
+            </ul>
+        </div>
+        <div id="docactions" class="bg-white">
+            <div class="metadata">
+                <div class="sub">
+                    
+                    <div class="textinfo">
+                        <a href="/marcosnogueira0" class="ownername" itemprop="author" rel="author">Cecil comic&#39;s</a>
+                        <p>
+                            <time class="date" itemprop="datePublished" datetime="2014-01-26T00:00:00.000Z" title="2014-01-26T00:00:00.000Z">2 years ago</time>
+                        </p>
+                        <a class="report report-style type-discreet" href="javascript:void(0);"><span class="issuuicon issuuicon-flag"></span> Flag</a>
+                    </div>
+                </div>
+                <div class="main">
+                    <h1 itemprop="name">[Mangá] The legend of zelda oracle of seasons</h1>
+                    <p class="description" itemprop="description">
+                        
+                            &nbsp;
+                        
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="stream-header theme-light">
+            <h3>
+                Related publications
+            </h3>
+        </div>
+        <section class="js-stream ui-stream"></section>
+    </div>
+    <div id="explicitwarning" class="theme-dark bg-dark"></div>
+</div>
+
+
+	    <script>window.issuuDataCache = {"terms":{"startDate":"2015-07-28T09:00:00Z","endDate":"2015-08-28T12:00:00Z","content":"Please note that our &#x3C;a href=&#x22;/legal/privacy&#x22;&#x3E;Privacy Policy&#x3C;/a&#x3E; has changed. By downloading, installing, or otherwise using any portion of the issuu service, you agree to be bound by these revised terms."},"userSamplingGroup":0,"servicesDown":["stream-ads-profile","reader-ad"],"servicesDownMsgs":{},"ISO3166Country":"BR","Continent":"SA","apiCache":{"/query|actionissuu.document.get_user_doc|documentusernamemarcosnogueira0|formatjson|namethe_legend_of_zelda_oracle_of_seaso|verifystate":{"document":{"username":"marcosnogueira0","name":"the_legend_of_zelda_oracle_of_seaso","documentId":"140126053642-7e28d833226e15e374763962772acfc7","uploadTimestamp":"2014-01-26T05:36:42.000Z","created":"2014-01-26T05:36:42.000Z","revisionId":"140126053642","publicationId":"7e28d833226e15e374763962772acfc7","title":"[Mang&#xE1;] The legend of zelda oracle of seasons","access":"public","state":"A","errorCode":0,"preview":false,"reviewed":true,"safe":true,"category":"000000","type":"000000","orgDocType":"pdf","orgDocName":"The Legend of Zelda Oracle of Seasons.pdf","downloadable":true,"origin":"multiupload","rating":4.2,"ratingsAllowed":false,"ratingDist":"1|0|0|0|4","likes":4,"commentsAllowed":false,"showDetectedLinks":false,"pageCount":196,"dcla":"3|||||||0|1","ep":1390694400,"publicationCreationTime":"2014-01-26T05:36:42.000Z","publishDate":"2014-01-26T00:00:00.000Z","publicOnIssuuTime":"2014-01-26T05:36:42.000Z","folders":["d6888482-8711-4064-be22-11528326e007"],"coverWidth":700,"coverHeight":989}},"/query|actionissuu.user.get_anonymous|formatjson|profileusernamemarcosnogueira0":{"user":{"id":10033110,"username":"MarcosNogueira0","password":true,"account":"P","displayName":"Cecil comic&#x27;s","about":"Image, Top Cow, Dark horse, Disney, Mang&#xE1;s, Marvel, DC entre outras... Tudo isso para voc&#xEA;, bom divertimento e desfrute do acervo.\r\n\r\nPor conta do novo sistema (frescuragem) do site, para ler algumas edi&#xE7;&#xF5;es voc&#xEA; vai precisar criar uma conta aqui, leia sempre a descri&#xE7;&#xE3;o das edi&#xE7;&#xF5;es atuais, nele vai estar o link da anterior que tiver tomado flag por conte&#xFA;do mais &#x22;adulto&#x22;..\r\n\r\n","country":"BR","languageId":"en","stackCount":86,"stackCountPublic":86,"documentCount":3381,"subscriberCount":1708,"subscriptionCount":7,"likedDocumentCount":17,"clippingCount":0,"stackSubscriptionCount":155}},"/call/licensing/application/get/1/1/publication/7e28d833226e15e374763962772acfc7|formatjson":[["unlisted","25"],["statsmonths","1"],["uploadlimitmb","100"]]},"documentData":{"publicationId":"7e28d833226e15e374763962772acfc7","revisionId":"140126053642","pageNumber":1,"ownerUsername":"marcosnogueira0","docname":"the_legend_of_zelda_oracle_of_seaso","state":"A","showPageZero":false,"onlyShowSidebarInFullscreen":true,"showMediaAds":true,"showReaderAds":false}}</script>
+        <script src="//static.isu.pub/uic/401/dist/js/ui-components-bottom.min.js" ></script>
+        
+
+        
+
+        <script src="http://static.isu.pub/fe/issuu-documentpage/s3/290/scripts/vendor-bundle.js" ></script>
+<script src="http://static.isu.pub/fe/issuu-documentpage/s3/290/scripts/default.js" ></script>
+        <script src="http://static.isu.pub/fe/issuu-server-libs/s3/locale/1045/en/lang.js" ></script>
+        <script type="text/javascript">
+    // Quantcast tracking
+    (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    // Google analytics
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/analytics.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<script src="//static.issuu.com/fe/frontend-tracking/s3/0.3.74/trac.nojq.min.js"></script>
+
+
+    </body>
+</html>
+
