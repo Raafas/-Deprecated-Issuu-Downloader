@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# OS X e Project files
+.DS_Store
+foo.txt
