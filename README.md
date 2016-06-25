@@ -9,3 +9,7 @@ Issuu Downloader
 
 ###Usage:
 python issuu.py url
+
+###TODO:
++ Convert to PDF
++ Clean code
