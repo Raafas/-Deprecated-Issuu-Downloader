@@ -58,4 +58,4 @@ target/
 
 # OS X e Project files
 .DS_Store
-foo.txt
+#foo.txt
